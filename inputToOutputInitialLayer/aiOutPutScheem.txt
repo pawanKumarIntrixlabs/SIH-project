@@ -1,0 +1,27 @@
+productName =
+productCategory =
+productType =
+productDomain =
+
+useCaseDomain =
+useCaseType =
+useCaseSubType =
+
+mainNeed =
+subNeeds =
+
+mainRestriction =
+subRestrictions =
+
+mainGuidance =
+subGuidance =
+
+mainDemand =
+subDemands =
+
+functionRequirement =
+performanceRequirement =
+capacityRequirement =
+qualityRequirement =
+safetyRequirement =
+securityRequirement =

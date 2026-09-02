@@ -1,0 +1,45 @@
+{
+    "product" : {
+        "name" : "product name",
+        "category" : "product category",
+        "type" : "product type",
+        "domain" : "product domain"
+    },
+
+    "useCase" : {
+        "domain" : "use case domain",
+        "type" : "use case type",
+        "subType" : "use case sub type"
+    },
+
+    "needs" : {
+        "main" : "main need",
+        "subNeeds" : ["sub need 1", "sub need 2"]
+    },
+
+    "ristrictions" : {
+        "main" : "main restriction",
+        "subRestrictions" : ["sub restriction 1", "sub restriction 2"]
+    },
+
+    "neededGuidance" : {
+        "main" : "main guidance",
+        "subGuidance" : ["sub guidance 1", "sub guidance 2"]
+    },
+
+    "misslaneousDemands" : {
+        "main" : "main demand",
+        "subDemands" : ["sub demand 1", "sub demand 2"]
+    },
+    
+    "requirements" : {
+        "function" : "function requirement 1",
+        "performance" : "performance requirement 1",
+        "capacity" : "capacity requirement 1",
+        "quality" : "quality requirement 1",
+        "safety" : "safety requirement 1",
+        "security" : "security requirement 1"
+    }
+
+
+}

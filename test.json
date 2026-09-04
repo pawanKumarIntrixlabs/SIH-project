@@ -1,0 +1,72 @@
+{
+  "product":{
+    "name": "steel wire",
+    "type": "wire",
+    "category": "electrical",
+    "sub_categories": [
+      {
+        "name": "electronics",
+        "description": "for electronic applications"
+      },
+      {
+        "name": "wire",
+        "description": "for general wire applications"
+      }
+    ]
+  },
+  "need": {
+    "description": "method for tensile testing of steel wire"
+  },
+  "objective": {
+    "description": "method",
+    "sub_objectiveS": [
+        "tensile testing",
+        "wire testing",
+        "steel wire testing",
+        "mechanical testing"
+    ]
+  },
+  "purpose": {
+    "description": "",
+    "sub_purposes": []
+  },
+  "use_intend": {
+    "descriptions": []
+  },
+  "application": [{
+    "name": "",
+    "description": ""
+  }],
+  "operational_needs": [{
+    "description": ""
+  }],
+  "requirements": "",
+  "sub_requirements": [],
+  "specifications": [{
+    "name": "",
+    "description": ""
+  }],
+  "restrictions": [{
+    "description": ""
+  }],
+  "constraints": [{
+    "description": ""
+  }],
+  "exclusive_properties": [{
+    "description": ""
+  }],
+  "environment": "",
+  "usecase_places": [{
+    "name": "",
+    "description": ""
+  }],
+  "condition_of_operations": [{
+    "description": ""
+  }],
+  "classified_final_aim": "",
+
+  "advisory": {
+    "description": "",
+    "actions": []
+  }
+}

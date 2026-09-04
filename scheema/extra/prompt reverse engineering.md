@@ -65,14 +65,10 @@ CLASSIFIED AIM
     "name": "",
     "type": "",
     "category": "",
-    "sub_category": "",
-    "description": "",
+    "sub_categories": [{
+      "description": ""
+    }]
   },
-  "need": {
-    "description": ""
-  },
-  "objective": {
-    "description": "",
     "sub_objectiveS": []
   },
   "purpose": {

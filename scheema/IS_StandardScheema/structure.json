@@ -1,0 +1,136 @@
+{
+  "standard": {
+    "is_number": "",
+    "title": "",
+    "edition": "",
+    "status": "",
+    "published_date": "",
+    "effective_date": "",
+    "revision": "",
+    "reaffirmation_year": "",
+    "supersedes": [],
+    "superseded_by": [],
+
+    "scope": {
+      "description": "",
+      "products": [],
+      "categories": [],
+      "applications": [],
+      "exclusions": []
+    },
+
+    "domain": [],
+    "keywords": [],
+
+    "applicability": {
+      "product_types": [],
+      "use_cases": [],
+      "environments": [],
+      "conditions": []
+    },
+
+    "requirements": [
+      {
+        "name": "",
+        "description": "",
+        "type": "",
+        "attribute": "",
+        "operator": "",
+        "value": "",
+        "unit": "",
+        "conditions": []
+      }
+    ],
+
+    "specifications": [
+      {
+        "name": "",
+        "description": "",
+        "value": "",
+        "unit": ""
+      }
+    ],
+
+    "tests": [
+      {
+        "name": "",
+        "description": "",
+        "method": "",
+        "related_standard": ""
+      }
+    ],
+
+    "safety": [
+      {
+        "description": "",
+        "requirement": ""
+      }
+    ],
+
+    "installation": [
+      {
+        "description": "",
+        "requirement": ""
+      }
+    ],
+
+    "terminology": [
+      {
+        "term": "",
+        "definition": ""
+      }
+    ],
+
+    "references": {
+      "normative": [
+        {
+          "is_number": "",
+          "relationship": "",
+          "description": ""
+        }
+      ],
+      "informative": [
+        {
+          "is_number": "",
+          "relationship": "",
+          "description": ""
+        }
+      ],
+      "related": [
+        {
+          "is_number": "",
+          "relationship": "",
+          "description": ""
+        }
+      ]
+    },
+
+    "amendments": [
+      {
+        "amendment_number": "",
+        "date": "",
+        "description": ""
+      }
+    ],
+
+    "certification": {
+      "applicable": false,
+      "scheme": "",
+      "requirements": [],
+      "mandatory": false
+    },
+
+    "classification": {
+      "technical_department": "",
+      "technical_committee": "",
+      "group": "",
+      "sub_group": ""
+    },
+
+    "source": {
+      "url": "",
+      "document": "",
+      "retrieved_at": ""
+    }
+  }
+}
